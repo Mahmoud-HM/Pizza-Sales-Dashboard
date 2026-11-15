@@ -2,7 +2,7 @@
 
 An interactive **Excel dashboard** that analyzes pizza sales for **2015**. It turns raw order data into a clean one-page view of revenue, order volume, and product performance, using pivot tables, pivot charts, slicers, and a date timeline.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](<img width="1319" height="476" alt="Pizza Dashboard" src="https://github.com/user-attachments/assets/f2a7e529-3071-42e0-b607-b06d61dcbdc1">)
 
 ---
 
@@ -18,6 +18,7 @@ An interactive **Excel dashboard** that analyzes pizza sales for **2015**. It tu
 ---
 
 ## Dashboard Visuals
+<img width="1319" height="476" alt="Pizza Dashboard" src="https://github.com/user-attachments/assets/7bb032e5-b8dc-44e9-8e4e-a5be69ef2d4d" />
 
 | Visual | Chart type | What it shows |
 |--------|-----------|---------------|
@@ -117,5 +118,5 @@ pizza-sales-dashboard/
 ## Author
 
 **[Mahmoud Ahmed]**
-Data Analyst | Excel & Dashboards
+Technical Translator & Project Support | Data Analytics (Excel, Power Query)
 [LinkedIn](https://www.linkedin.com/www.linkedin.com/in/mahmoud-hashem-b8598852) · [Email](mailto:m_translator@ymail.com)
